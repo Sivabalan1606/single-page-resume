@@ -1,19 +1,24 @@
 # Single Page Resume
 
-A professional single-page resume website built using HTML5. This project showcases my personal information, skills, education, internship experience, and online profiles in a clean and structured format.
+A professional single-page resume website built using HTML5 as part of the roadmap.sh Single-Page CV project.
+
+## Project Links
+
+- Project Requirement: https://roadmap.sh/projects/single-page-cv
+- GitHub Repository: https://github.com/Sivabalan1606/single-page-resume
+- Live Demo: https://sivabalan1606.github.io/single-page-resume/
 
 ## Features
 
 - Semantic HTML structure
 - Single-page resume layout
 - SEO Meta Tags
-- Open Graph (OG) Tags for social media sharing
+- Open Graph (OG) Tags
 - Custom Favicon
 - Skills Section
 - Education Section
-- Internship Experience Section
-- GitHub and LinkedIn Profile Links
-- Responsive viewport configuration
+- Internship Experience
+- Social Media Links
 
 ## Technologies Used
 
@@ -21,8 +26,8 @@ A professional single-page resume website built using HTML5. This project showca
 
 ## Project Structure
 
-```
-roadmap.sh/
+```text
+single-page-resume/
 │
 ├── index.html
 ├── resume.images.jpg
@@ -30,13 +35,13 @@ roadmap.sh/
 └── README.md
 ```
 
-## Author
+## About Me
 
-### Sivabalan S
+**Sivabalan S**
 
-Aspiring Frontend Developer and AI & Data Science Student passionate about web development, problem-solving, and software engineering.
+Aspiring Frontend Developer and Artificial Intelligence & Data Science student passionate about web development, problem-solving, and software engineering.
 
-### Contact Information
+## Contact Information
 
 - Email: sb633977@gmail.com
 - GitHub: https://github.com/Sivabalan1606
@@ -70,7 +75,7 @@ Aspiring Frontend Developer and AI & Data Science Student passionate about web d
 ## Education
 
 ### B.Tech Artificial Intelligence and Data Science
-**St. Joseph's College of Engineering, Chennai, Tamil Nadu**
+**St. Joseph's College of Engineering, Chennai**
 
 - Duration: 2024 – 2028
 - CGPA: 8.35/10
@@ -82,22 +87,19 @@ Aspiring Frontend Developer and AI & Data Science Student passionate about web d
 
 **Duration:** April 2025 – May 2025
 
-#### Responsibilities and Achievements
+#### Responsibilities
 
 - Developed an ATM Interface application using Python.
 - Implemented balance inquiry, deposit, and withdrawal functionalities.
-- Applied modular programming techniques to improve code readability.
-- Implemented input validation and error handling mechanisms.
-- Debugged and optimized code to improve performance and reliability.
-- Enhanced user interaction through secure and efficient program design.
+- Applied modular programming techniques.
+- Implemented input validation and error handling.
+- Debugged and optimized code for improved performance.
+- Enhanced reliability and user interaction through secure program design.
 
 ## Online Profiles
 
-### GitHub
-https://github.com/Sivabalan1606
-
-### LinkedIn
-https://www.linkedin.com/in/sivabalan-s-770b21332/
+- GitHub: https://github.com/Sivabalan1606
+- LinkedIn: https://www.linkedin.com/in/sivabalan-s-770b21332/
 
 ## SEO Features
 
@@ -112,29 +114,24 @@ This project includes:
 - Open Graph URL
 - Favicon Support
 
-## Running the Project Locally
+## Running the Project
 
-1. Download or clone the repository.
+1. Clone the repository:
+
+```bash
+git clone https://github.com/Sivabalan1606/single-page-resume.git
+```
+
 2. Open the project folder.
-3. Double-click `index.html` or open it using a web browser.
-
-## Project URL
-
-Local Development URL:
-
-```
-file:///C:/Users/sb633/Desktop/roadmap.sh/index.html
-```
-
-> Note: This URL works only on the local machine where the project is stored. After deploying with GitHub Pages, replace it with the public website URL.
+3. Open `index.html` in your browser.
 
 ## Future Improvements
 
 - Add external CSS styling
-- Improve responsiveness for mobile devices
+- Improve mobile responsiveness
 - Add downloadable PDF resume
-- Include projects and certifications section
-- Enhance accessibility features
+- Include projects and certifications
+- Improve accessibility
 
 ## License
 
